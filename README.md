@@ -1,2 +1,2 @@
 # Bookshelf
-A full stack web application that displays information about various books. 
+A full stack web application that displays information about various books (work in progress). 
